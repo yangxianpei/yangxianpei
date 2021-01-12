@@ -2,6 +2,7 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 ![](https://visitor-badge.glitch.me/badge?page_id=yangxianpei)
+![](https://img.shields.io/badge/language-JavaScript-orange)
 
 <!--
 **shanyuhai123/shanyuhai123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
